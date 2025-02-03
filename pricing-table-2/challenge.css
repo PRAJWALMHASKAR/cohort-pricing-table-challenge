@@ -33,11 +33,13 @@ body {
 h1 {
   /* Add your styles here */
   color: #ff6565;
+  font-size: x-large;
 }
 
 .subtitle {
   /* Add your styles here */
   color: #acacac;
+  font-size: xx-small;
 }
 
 .pricing-container {
